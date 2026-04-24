@@ -1,3 +1,1 @@
-
-
-My website!
+Neel's personal website
