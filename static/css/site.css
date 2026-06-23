@@ -315,6 +315,10 @@ a:focus {
   margin-bottom: 4px;
 }
 
+.publication-section + .publication-section {
+  margin-top: 58px;
+}
+
 .publication-card .authors,
 .publication-card .venue {
   color: var(--muted);
